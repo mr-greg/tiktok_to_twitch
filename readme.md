@@ -1,6 +1,9 @@
 # Guide : Récupérer les informations d'authentification Twitch
 
+Note : dans la config, "tiktok_channel_name" attends le nom de la chaîne TikTok où récupérer les messages en live.
+
 Ce guide explique comment obtenir les informations nécessaires (« clientId », « access_token » et « refresh_token ») pour se connecter au chat Twitch avec Twurple.
+Vous devrez remplir ces informations dans le fichier config.json (enlever example une fois cloné).
 
 ## 1. Créer une application Twitch
 
