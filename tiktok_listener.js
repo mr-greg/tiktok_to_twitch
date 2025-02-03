@@ -24,7 +24,7 @@ tiktokLiveConnection.connect().then(state => {
 // Define the events that you want to handle
 // In this case we listen to chat messages (comments)
 tiktokLiveConnection.on('chat', data => {
-    var msg = `${data.uniqueId} writes: ${data.comment}`;
+    var msg = `${data.uniqueId} a dit: ${data.comment}`;
     console.log(msg);
 
     bot.say("goatyful", msg)
