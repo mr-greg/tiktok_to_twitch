@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@twurple/api": "^7.2.1",
+    "@twurple/auth": "^7.2.1",
+    "@twurple/easy-bot": "^7.2.1",
+    "@twurple/eventsub-ws": "^7.2.1",
+    "tiktok-live-connector": "^1.2.3"
+  }
+}
