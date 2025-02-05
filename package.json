@@ -5,5 +5,6 @@
     "@twurple/easy-bot": "^7.2.1",
     "@twurple/eventsub-ws": "^7.2.1",
     "tiktok-live-connector": "^1.2.3"
-  }
+  },
+  "type": "module"
 }
