@@ -2,9 +2,9 @@ import requests
 
 url = "https://id.twitch.tv/oauth2/token"
 data = {
-    "client_id": "z4fm64wtjcpa1kkfwybrqe6pe7k514",
-    "client_secret": "oimc5d08sanes93tx7ecgfdiurgrc1",
-    "code": "z89mrselkq8478qqjyc80fbobqjrhz",
+    "client_id": "TON_CLIENT_ID",
+    "client_secret": "TON_CLIENT_SECRET",
+    "code": "CODE_OBTENU",
     "grant_type": "authorization_code",
     "redirect_uri": "http://localhost"
 }
